@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "FIFA 20 stream",
+      "description": "Playing FIFA 20 with my friends.",
+      "id": 1
+    },
+    {
+      "title": "Final Fantasy VII",
+      "description": "Playing seventh chapter of Final Fantasy",
+      "id": 2
+    },
+    {
+      "title": "Another Stream",
+      "description": "Just another stream meant for testing",
+      "id": 3
+    },
+    {
+      "title": "Cult Fit Live",
+      "description": "Live cult fit dance sessions at home",
+      "userId": "111560523193826922569",
+      "id": 4
+    },
+    {
+      "title": "Dinner at 8",
+      "description": "Join me having dinner everyday at 8 PM IST.",
+      "id": 7
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Learn programmatic navigation from the comfort of your home.",
+      "userId": "111560523193826922569",
+      "id": 8
+    },
+    {
+      "title": "Far Cry 4 Stream",
+      "description": "Playing Far CRY 4 live all chapters this weekend!",
+      "userId": "115403747105027111377",
+      "id": 9
+    }
+  ]
+}
